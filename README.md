@@ -1,2 +1,0 @@
-# jonahlage-portfolio
-portfolio website

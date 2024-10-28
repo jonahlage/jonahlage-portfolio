@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "jonahlage.com",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -14,3 +14,4 @@
     ]
   }
 }
+
